@@ -1,6 +1,6 @@
 {
   "name": "os-android-google-play-links-grabber",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A tool for grabbing all of Google's play links from a given Google Play account",
   "main": "index.js",
   "repository": {
@@ -11,6 +11,6 @@
   "author": "osfunapps",
   "license": "ISC",
   "dependencies": {
-    "os-puppeteer-helper": "latest"
+    "os-puppeteer-helper": "^2.0.37"
   }
 }
